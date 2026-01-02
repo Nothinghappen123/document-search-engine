@@ -1,4 +1,4 @@
-Hybrid Document Search Engine (BM25 + Semantic Reranking)
+<h1>Hybrid Document Search Engine (BM25 + Semantic Reranking)</h1>
 Overview
 
 This project implements a hybrid document retrieval system that efficiently retrieves and ranks relevant documents from a large text corpus using a combination of lexical search (BM25) and semantic similarity (transformer-based embeddings).
@@ -167,3 +167,4 @@ Designed a scalable and explainable retrieval pipeline
 License
 
 This project is for educational and portfolio purposes.
+
