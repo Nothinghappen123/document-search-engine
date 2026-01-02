@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+data/
+.DS_Store
+*.sampled_wikipedia.csv
